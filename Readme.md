@@ -1,4 +1,4 @@
 
 # GitTaCerto
-Este é um repositório teste
+Este é um repositório teste. Saiba mais no link blaaa
 
