@@ -1,4 +1,4 @@
 
 # GitTaCerto
-Este é um repositório teste. Saiba mais no link blaaa
-
+Ta certo Renan! 
+Ambiente de Git é ambiente de drogas.
